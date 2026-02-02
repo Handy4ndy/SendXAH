@@ -34,7 +34,7 @@ This tool allows users to securely send XAH by prompting for transaction details
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/SendXAH.git
+   git clone https://github.com/Handy4ndy/SendXAH.git
    cd SendXAH
    ```
 
@@ -165,12 +165,13 @@ Contributions are welcome! Please:
 4. Test thoroughly
 5. Submit a pull request
 
-For issues or feature requests, please use the [GitHub Issues](https://github.com/yourusername/SendXAH/issues) page.
+For issues or feature requests, please use the [GitHub Issues](https://github.com/Handy4ndy/SendXAH/issues) page.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
 
 *Built with the [Xahau Ledger](https://xahau.network/)*
